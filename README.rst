@@ -1,5 +1,6 @@
 What happens when...
 ====================
+
 Before we go to the details, let me summarize what heppens so everyone reading
 this article can have a "big picture" in their mind:
 
